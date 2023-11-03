@@ -33,10 +33,6 @@
         text-decoration: none;
     }
 
-    .navbar ul li a:hover{
-        background-color: #00bec9;
-        transition: 0.5s;
-    }
 
     .search-bar{
         display: flex;
